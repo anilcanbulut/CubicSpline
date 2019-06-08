@@ -1,3 +1,5 @@
+%Author Anılcan BULUT
+
 function out = CubicSpline(value,time,number_of_data)
 %value is X or Y variables
 % x = [0 1 1.5 2 3 5 6 8 10];
