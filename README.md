@@ -8,5 +8,5 @@ You can use this function to create a cubic spline graph. It works in all dimens
 # QUICK OVERVİEW ABOUT ALGORITHM BEHIND IT
 When I build this code, I have used the algorithm that is given in the course which is:
 
-![Alt text](C:\Users\anilc.DESKTOP-FORM3NR\Desktop\CubicSpline.png?raw=true "Title")
+![](CubicSpline.png)
 
