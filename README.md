@@ -10,3 +10,5 @@ When I build this code, I have used the algorithm that is given in the course wh
 
 ![](CubicSpline.png)
 
+The equation above is used for calculating (n-1) number of splines. In the code, I’ve followed the steps as in the formula and put them in a matrix and finally found the splines.
+
